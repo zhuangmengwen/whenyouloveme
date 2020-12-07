@@ -9,8 +9,7 @@ public class TestJVM {
             System.out.println("test-jvm");
         } else {
             System.out.println(jvm);
-
         }
-        System.out.println("哈哈哈哈");
+        System.out.println("测试一下git的提交");
     }
 }
